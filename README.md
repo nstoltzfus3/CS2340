@@ -1,1 +1,4 @@
-# CS2340-M1
+# CS2340 Team 19 Project Repo
+
+#### Contributors (List your names here):
+- Siwei Li
