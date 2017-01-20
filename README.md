@@ -4,3 +4,4 @@
 - Siwei Li
 - Theresa Ming
 - Yuchen Cao
+- Nicholas Stoltzfus
